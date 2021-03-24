@@ -1,1 +1,2 @@
-# construct3_demo
+# Dossier de démo de Construct3
+Contient des packs d'images
